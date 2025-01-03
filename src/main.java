@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
 
-public class MyApplication {
+public class main{
     public static void main(String[] args)
     {
         ArrayList<Person> persons = new ArrayList<>();
